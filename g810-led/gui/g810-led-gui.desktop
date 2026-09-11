@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=g810-led GUI
+Comment=Visual editor for Logitech RGB gaming keyboards
+Exec=g810-led-gui
+Icon=preferences-desktop-keyboard
+Categories=Utility;Settings;
+Terminal=false
